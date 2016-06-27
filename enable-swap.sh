@@ -2,7 +2,7 @@
 
 
 # swap amount in megabytes
-swap_size=512
+swap_size=2048
 
 printf "#### Creating Swap..."
 /bin/dd if=/dev/zero of=/var/swap.1 bs=1M count=${swap_size}

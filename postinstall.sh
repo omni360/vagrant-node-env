@@ -13,6 +13,7 @@ nvm use v0.*
 # install common nodejs tools
 npm install -g pm2
 npm install -g gulp
+npm install -g gulp-cli
 npm install -g grunt-cli
 npm install -g bower
 npm install -g yo
