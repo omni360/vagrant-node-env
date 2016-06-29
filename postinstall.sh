@@ -20,3 +20,9 @@ npm install -g yo
 npm install -g testem
 npm install -g karma-cli
 npm install -g jasmine
+npm install -g generator-tiny-ts
+npm install -g typescript
+npm install -g tsd
+npm install -g tsc
+npm install -g typings
+npm install -g jspm
