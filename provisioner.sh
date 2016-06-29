@@ -72,8 +72,8 @@ npm install -g npm@3.10.3
 hash -d npm
 
 # install stable version of node with nvm, and set it to the default version
-nvm install v0.*
-nvm alias default v0.*
+nvm install latest
+nvm alias default latest
 
 printf "Making sure ownership rights are correct in vagrant user directory..."
 # make sure everything in the vagrant directory is owned by vagrant
