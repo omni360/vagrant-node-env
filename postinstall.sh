@@ -30,3 +30,7 @@ npm install -g typings
 npm install -g jspm
 npm install -g npm-check-updates
 npm install -g cordova
+npm install -g node-sass
+npm install -g protractor
+npm install -g sinopia
+npm install -g nrm
