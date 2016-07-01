@@ -23,6 +23,10 @@ npm install -g jasmine
 npm install -g generator-tiny-ts
 npm install -g typescript
 npm install -g tsd
+npm install -g generator-angular-pro
+npm install -g ionic
 npm install -g tsc
 npm install -g typings
 npm install -g jspm
+npm install -g npm-check-updates
+npm install -g cordova
